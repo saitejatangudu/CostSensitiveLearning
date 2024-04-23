@@ -5,8 +5,6 @@ This repository contains the implementation and experimental results of a novel 
 
 ## Contents
 1. **Imported Dependencies**: This directory contains all the necessary dependencies imported from the master repository of the paper titled "An Interpretable Measure of Dataset Complexity for Imbalanced Classification Problems".The cost matrices incorporated in the study have been prepared based on the complexity measures mentioned in this paper.
-   
-### Reference
 - Paper: [An Interpretable Measure of Dataset Complexity for Imbalanced Classification Problems](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch29)
 
 2. **Resampling NoteBooks**: Here, you can find the scripts and code used to conduct experiments and evaluate the performance of different complexity measures in cost matrix design and how they performed in camparison to the proposed adasyn based cost matrices along side preparing the necessary imbalanced varients for the study. 
