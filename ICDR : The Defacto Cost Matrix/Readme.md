@@ -1,5 +1,4 @@
-# Handling Class Imbalance in Machine Learning: An Empirical Evaluation of Cost-Sensitive Learning Algorithms
-
+# ICDR : The Defacto Cost Matrix
 ## Introduction
 Most real-world applied Machine Learning (ML) classification tasks involve imbalanced data. Addressing class imbalance is crucial for improving classifier performance. While many existing techniques focus on data level and algorithmic level solutions, their effectiveness in handling the skewness aspect of imbalanced data, alongside factors such as class overlapping, often receive lesser attention. This repository aims to bridge this gap by empirically reviewing a set of Cost-Sensitive Learning (CSL) algorithms that utilize Inverse Class Distribution Ratio (ICDR) based cost matrices. We assess their performance against cost-insensitive (CSIL) algorithms, considering various factors such as class overlapping, minority class sample size, diverse data domains, and ML models.
 
